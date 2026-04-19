@@ -3,7 +3,7 @@
 A lightweight transparent HUD that shows your throttle position with detent markers in real time — built for the **FlyByWire A320neo (A32NX)** on Microsoft Flight Simulator 2020/2024.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download Addon](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")]()
+[![Download Addon](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/pranaykalita/A320ThrottleIndicate/archive/refs/heads/main.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 ---
