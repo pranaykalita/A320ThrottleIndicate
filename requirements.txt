@@ -1,0 +1,5 @@
+# A32NX Throttle Overlay — dependencies
+# Install with: pip install -r requirements.txt
+
+SimConnect>=0.4.26   # MSFS SimConnect bridge
+pygame>=2.5.0        # Joystick / controller input
